@@ -1,0 +1,1 @@
+[![Board Status](https://lenadkn.visualstudio.com/9a75e606-ef96-4451-b048-cff1447d6a8f/2f35b3de-1b39-4d29-b1c7-1e87bc6361c5/_apis/work/boardbadge/d4ba09bd-f771-4b9f-9f95-ff02ecf19ba4)](https://lenadkn.visualstudio.com/9a75e606-ef96-4451-b048-cff1447d6a8f/_boards/board/t/2f35b3de-1b39-4d29-b1c7-1e87bc6361c5/Microsoft.RequirementCategory)
